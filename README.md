@@ -54,5 +54,5 @@ Output:
 
 ```json
 {
-  "predict cost": 1022545.34768284"
+  "predict cost": 1022545.34768284
 }
